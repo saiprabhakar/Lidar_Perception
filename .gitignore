@@ -1,0 +1,4 @@
+ros_tut/build/*
+ros_tut/devel/*
+ros_tut/install/*
+ros_tut/src/CMakeLists.txt

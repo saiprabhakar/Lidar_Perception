@@ -1,0 +1,15 @@
+ToDo:
+
+
+08/18
+
+To acheive real time:
+1. subsampling -- tried giving good results
+
+Filtering:
+1.explore other filtering techniques
+
+Detection:
+1. plane fitting
+2. square slot fitting?
+
